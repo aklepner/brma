@@ -1,0 +1,47 @@
+
+
+#membership-application-entityform-edit-form div div.required-fields.memlvl h3 {
+	background-color: #3a3a3a;
+	color: #fff;
+	text-transform: uppercase;
+	padding-left: 10px;
+}
+
+#edit-field-membership-levels div.form-item.form-type-radios.form-item-field-membership-levels-und label.option {
+	display: inline;
+}
+
+#edit-field-membership-levels div.form-item.form-type-radios.form-item-field-membership-levels-und label {
+	display: none;
+}
+
+#membership-application-entityform-edit-form div div.required-fields.group-membership-types.field-group-div h3 {
+	background-color: #3a3a3a;
+	color: #fff;
+	text-transform: uppercase;
+	padding-left: 10px;
+}
+
+#edit-field-membership-type div.form-item.form-type-radios.form-item-field-membership-type-und label.option {
+	display: inline;
+}
+
+#edit-field-membership-type div.form-item.form-type-radios.form-item-field-membership-type-und label {
+	display: none;
+}
+
+#membership-application-entityform-edit-form div div.required-fields h3 {
+	background-color: #3a3a3a;
+	color: #fff;
+	text-transform: uppercase;
+	padding-left: 10px;
+}
+
+div.form-item.form-type-radio.form-item-field-prefix-first-und, div.form-item.form-type-radio.form-item-field-prefix-second-und {
+	float: left;
+	padding-right: 10px;
+}
+
+.form-item-field-first-name-first-und-0-value label, .form-item-field-first-name-second-und-0-value label {
+	clear: both;
+}

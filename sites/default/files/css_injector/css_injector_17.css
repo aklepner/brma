@@ -1,0 +1,32 @@
+@media only screen and (min-width: 768px) {
+    /* tablets and desktop */
+#branding {
+   	margin-top: 10px;
+   }
+#block-block-1 {
+   	display: none;
+   }
+   }
+@media only screen and (max-width: 767px) {
+    /* phones */
+   #branding {
+   display: none;
+}
+#block-block-1 {
+	display: block;
+		margin-top: 10px;
+	
+}
+}
+
+@media only screen and (max-width: 767px) and (orientation: portrait) {
+    /* portrait phones */
+   #branding {
+   display: none;
+}
+#block-block-1 {
+	display: block;
+		margin-top: 10px;
+	
+}
+}

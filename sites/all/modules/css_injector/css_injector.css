@@ -1,0 +1,8 @@
+/* @override http://brma-dev.local:8080/sites/all/modules/css_injector/css_injector.css?nbzup6 */
+
+form input.css-inject-edit,
+form input.css-inject-delete {
+  padding-left: 35px;
+ background-position: 12px center;
+ background-repeat: no-repeat;
+}

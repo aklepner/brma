@@ -1,0 +1,76 @@
+/* @override http://brma-dev.local:8080/sites/brma-dev.local/files/css_injector/css_injector_5.css?naplnw */
+div.owl-controls.clickable div.owl-buttons div.owl-prev {
+	display: none;
+}
+#content-header h1.title {
+	display: none;
+}
+
+.owl-carousel .owl-item div.views-field.views-field-title {
+	width: 200px;
+		font-weight: bold;
+	text-transform: uppercase;
+	padding: 10px;
+}
+.owl-carousel .owl-item div.views-field.views-field-title a{
+	color: #000000;
+	font-size: 14px;
+	text-decoration: none;
+}
+.owl-carousel .owl-item div.views-field.views-field-field-date {
+	width: 200px;
+	padding: 0 10px 10px;
+	font-size: 11px;
+	color: #686869;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+.owl-carousel .owl-item div.item-0, 
+.owl-carousel .owl-item div.item-1,
+.owl-carousel .owl-item div.item-2, 
+.owl-carousel .owl-item div.item-3,
+.owl-carousel .owl-item div.item-4, 
+.owl-carousel .owl-item div.item-5,
+.owl-carousel .owl-item div.item-6, 
+.owl-carousel .owl-item div.item-7,
+.owl-carousel .owl-item div.item-8,
+.owl-carousel .owl-item div.item-9, 
+.owl-carousel .owl-item div.item-10 {
+	width: 200px;
+	background-color: #ffffff;
+}
+
+div.owl-item :hover {
+background-color: #cccccc;
+}
+
+
+.owl-theme .owl-controls .owl-buttons div{
+	color: #FFF;
+	display: inline-block;
+	zoom: 1;
+	*display: inline;/*IE7 life-saver */
+	margin: 5px;
+	padding: 3px 10px;
+	font-size: 12px;
+	-webkit-border-radius: 0px;
+	-moz-border-radius: 0px;
+	border-radius: 0px;
+	background: #000000;
+	filter: Alpha(Opacity=50);/*IE7 fix*/
+	opacity: 0.5;
+}
+div.owl-buttons {
+	width: 150px;
+	float: right;
+}
+
+span.caption p {
+     font-size: 8px;
+     color: #999999;
+     width: 200px;
+     margin-bottom: 0;
+     line-height: 9px;
+     display: none;
+}

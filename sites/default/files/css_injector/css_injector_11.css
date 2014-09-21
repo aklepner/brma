@@ -1,0 +1,61 @@
+/* @override http://brma-dev.local:8080/sites/default/files/css_injector/css_injector_11.css?nbwvml */
+
+/* @override http://brma-dev.local:8080/sites/default/files/css_injector/css_injector_11.css?naz64h */
+
+
+body {
+	background-color: #ffffff;
+}
+
+#footcol2 {
+	float: left;
+	margin-right: 2%;
+	width: 18%;
+	min-width: 180px;
+	font-size: 12px;
+}
+
+#footer div.container {
+	border-top: 1px solid #c6c6c6;
+	padding-top: 30px;
+}
+
+#footcol2 p strong {
+	font-size: 14px;
+line-height: 10px;
+}
+
+
+
+#block-block-2 {
+	position: static;
+    z-index: -1000000000;
+}
+
+@media only screen and (min-width: 968px) {
+    /* tablets and desktop */
+#search-block-form {
+		position: relative;
+    z-index: 2;
+	top: -220px;
+	width: 400px;
+}
+
+#block-block-7 {
+	position: relative;
+    z-index: 2;
+	top: -200px;
+	width: 500px;
+
+}
+}
+
+@media only screen and (max-width: 900px) {
+    /* phones */
+
+}
+
+@media only screen and (max-width: 900px) and (orientation: portrait) {
+    /* portrait phones */
+
+}

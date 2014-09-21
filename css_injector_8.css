@@ -1,0 +1,48 @@
+/* @override http://brma-dev.local:8080/sites/brma-dev.local/files/css_injector/css_injector_8.css?naons4 */
+
+/**/
+
+#primary {
+	font-family: 'Open Sans', sans-serif;
+	text-align: justify;
+    border-top: 1px solid #ed174f;
+	border-bottom: 1px solid #ed174f;
+	height: 40px;
+	padding-top: 7px;
+	padding-bottom: 7px;
+	text-transform: uppercase;
+}
+#primary:after {
+    display: inline-block;
+    width: 100%;
+}
+#primary li {
+    display: inline-block;
+    font-size: 18px;
+    
+}
+#primary a:link {
+    padding: 0 0;
+	color: #000000;
+}
+
+/**/
+
+#block-menu-menu-secondary-menu .menu li{
+	display: inline-block;
+    font-size: 18px;
+	float: right;
+	margin-left: 40px;
+}
+#block-menu-menu-secondary-menu .menu li a{
+	font-family: 'Open Sans', sans-serif;
+	text-align: justify;
+	height: 40px;
+	padding-top: 7px;
+	padding-bottom: 7px;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+
+/**/

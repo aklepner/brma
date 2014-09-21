@@ -1,0 +1,76 @@
+/* @override http://brma-dev.local:8080/sites/default/files/css_injector/css_injector_15.css?nb2j62 */
+
+div.event_program {
+	font-size: 11px;
+	text-transform: uppercase;
+	font-weight: bold;
+	text-align: center;
+	background-color: #3a3a3a;
+	color: #ffffff;
+	margin-bottom: 5px;
+}
+
+div.event_location {
+	font-size: 11px;
+	text-transform: uppercase;
+}
+
+div.upcomingevent {
+  	width: 95%;
+  	float: left;
+  }
+
+div.outsideslidert {
+width: 5%;
+	float: left;
+}
+
+.eventslide {
+	background: #ffffff;
+	width: 305px;
+	margin-bottom: 220px;
+}
+
+.eventslide :hover{
+	background: #c6c5c7;
+
+}
+
+#exhib_slide :hover {
+	background: #c6c5c7;
+}
+
+
+div.event_info {
+	padding: 15px;
+}
+
+div.event_title {
+	
+	color: #333;
+font-style: normal;
+font-weight: 800;
+font-size: 13px;
+letter-spacing: 0;
+line-height: 17px;
+text-transform: uppercase;
+transition: color .1s linear;
+-webkit-transition: color .1s linear;
+
+}
+
+div.event_date {
+		color: #8d8d8d;
+font-style: normal;
+font-weight: 600;
+font-size: 13px;
+letter-spacing: 0;
+line-height: 16px;
+text-transform: uppercase;
+transition: color .1s linear;
+-webkit-transition: color .1s linear;
+
+}
+div.event_title a{
+	color: #000000;
+}

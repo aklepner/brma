@@ -1,0 +1,26 @@
+div.masonry-item {
+	width: 200px;
+}
+
+div.masonry-item h3 {
+	background-color: #3a3a3a;
+	margin: 0;
+}
+
+div.sutro-column-content-region.sutro-column1.sutro-column.panel-panel.span6 iframe{
+	height: 309px;
+}
+
+a.subclass h3 {
+	color: #fff;
+	text-transform: uppercase;
+	font-size: 13px;
+	padding-left: 5px;
+	padding-top: 3px;
+	padding-bottom: 3px;
+
+}
+
+#catbrick {
+	padding-bottom: 9px;
+}

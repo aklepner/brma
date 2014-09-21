@@ -1,0 +1,56 @@
+/* @override http://brma-dev.local:8080/sites/default/files/css_injector/css_injector_19.css?nc0a65 */
+
+/* @override http://brma-dev.local:8080/sites/default/files/css_injector/css_injector_19.css?nc06sg */
+
+/**/
+
+div.fieldable-panels-pane {
+	margin-bottom: 33px;
+}
+
+div.selby-flipped-column-content-region.selby-flipped-content-header.clearfix.panel-panel.row-fluid {
+	margin-bottom: 0;
+}
+
+.mbmbrlvl .views-field.views-field-field-price {
+	margin: 1em 0;
+	font: 800 1.17em "open sans";
+	text-transform: uppercase;
+	float: left;
+	overflow: auto;
+}
+
+.mbmbrlvl {
+	margin-right: 30px;
+	width: 300px;
+	float: left;
+	min-height: 400px;
+}
+
+.mbmbrlvl h3 {
+	margin-right: 10px;
+	text-transform: uppercase;
+	float: left;
+}
+
+div.views-field.views-field-body {
+	
+}
+
+a.joinbutton {
+	background-color: #3a3a3a;
+	color: #fff;
+	font-weight: 800;
+	text-transform: uppercase;
+	padding: 8px;
+}
+
+a.joinbutton:hover {
+	background-color: #000;
+	text-decoration: none;
+}
+
+div.views-field.views-field-nid {
+	clear: both;
+	margin-bottom: 12px;
+}

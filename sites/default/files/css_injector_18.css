@@ -1,0 +1,27 @@
+/* @override http://brma-dev.local:8080/sites/default/files/css_injector/css_injector_18.css?nby4pu */
+
+/**/
+
+div.panel-pane.pane-fieldable-panels-pane.pane-fpid-121.pane-bundle-quick-links.no-title.block ul{
+	list-style-type: none;
+	padding-left: 0;
+}
+
+
+div.panel-pane.pane-fieldable-panels-pane.pane-fpid-121.pane-bundle-quick-links.no-title.block li{
+	font-weight: bold;
+	background-color: #393a39;
+	margin-left: 0;
+	color: #ffffff;
+	margin-top: 6px;
+	height: 35px;
+	padding-top: 6px;
+}
+
+div.panel-pane.pane-fieldable-panels-pane.pane-fpid-121.pane-bundle-quick-links.no-title.block li a{
+	
+	color: #ffffff;
+	text-transform: uppercase;
+	font-size: 19px;
+	margin-left: 12px;
+}
